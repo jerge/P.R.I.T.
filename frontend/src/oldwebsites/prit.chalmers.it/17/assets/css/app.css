@@ -1,0 +1,311 @@
+/* @override
+	http://hultnermbp.local:8888/prit/assets/css/app.css */
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+body {
+	font-family: 'Lato', "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	background: #070707; 
+ }
+
+@font-face {
+    font-family: 'Catamaran';
+	src: url('/17/wp-content/uploads/Catamaran.ttf.woff');
+
+
+}
+h1, h2, h3, h4, h5{
+
+	font-family: 'Catamaran';
+	
+}
+
+h1, h2, h3 {
+	font-weight: 100;
+}
+
+p{
+
+}
+
+
+/* =============================================================================
+   Header
+   ========================================================================== */
+
+.banner {
+	
+ }
+ 
+div.navbar-inner{
+	height: 85px;
+	margin-top: 20px;
+	-moz-box-shadow: 0 0 10px #000000;
+	-webkit-box-shadow: 0 0 10px #000000;
+	box-shadow: 0 0 10px #000000;
+	opacity: 1;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;	
+	outline: 1px solid #fefefe;
+	border-width: 1px 0px;
+}
+@-moz-document url-prefix(){
+	.navbar-inner{
+		outline-offset: -14px;
+	}
+	#wrapper{
+		outline-offset: -14px;
+	}
+}
+
+.navbar .brand {
+	margin: 7px 0px;
+	padding: 0px;
+}
+
+.navbar .brand > h1{
+	font-family: 'Catamaran';
+	font-size: 38px;
+	line-height: 70px;
+	font-weight: 300;
+	margin: 0px 10px;
+	padding: 0px 0px;
+	display: inline;
+	vertical-align:middle;
+}
+/*
+.brand img{
+	margin-top: -25px;
+}
+*/
+#menu-primary-navigation{
+	float: right;
+}
+
+#menu-primary-navigation > li > a {
+	padding: 0px 10px;
+	margin:  0px;
+	line-height: 85px;
+	font-size: 20px;
+	font-family: 'Catamaran';
+	
+}
+
+header.top{	
+	height: 560px;
+	background-image: url('../img/header/prit2.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	overflow: hidden;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/header/prit2.jpg', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/header/prit2.jpg', sizingMethod='scale')";
+	background-postition: 0 -15;
+}
+.home header.top:before {
+	background-image: url('../img/header/prit1.jpg');
+}
+
+/* ==========================================================================
+   Content
+   ========================================================================== */
+#wrapper{
+	-moz-box-shadow: 0 0 10px #000000;
+	-webkit-box-shadow: 0 0 10px #000000;
+	box-shadow: 0 0 10px #000000;
+	opacity: 1;
+	width: 100%;
+	border: 1px solid #D4D4D4;
+	outline: 1px solid #fefefe;
+	border-width: 1px 0px;
+	background: #fefefe; /* Old browsers */
+	background: -moz-linear-gradient(top, #fefefe 52%, #ebebeb 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(52%,#fefefe), color-stop(100%,#ebebeb)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #fefefe 52%,#ebebeb 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #fefefe 52%,#ebebeb 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #fefefe 52%,#ebebeb 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #fefefe 52%,#ebebeb 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#ebebeb',GradientType=0 ); /* IE6-9 */
+}
+
+.content { }
+
+
+/* ==========================================================================
+   Primary Content
+   ========================================================================== */
+
+.main { }
+
+
+
+.home .main h2{
+	font-size: 60px;
+	margin-top: 40px;
+}
+.home .main p{
+	font-size: 30px;
+	line-height: 50px;
+	font-weight: 100;
+	color: #000;
+	margin-bottom: 30px;
+	
+}
+
+.home .main .page-header{
+	display: none;
+}
+
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
+.sidebar {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+
+
+/* ==========================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry .byline { }
+.hentry .entry-content { }
+.hentry footer { }
+
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.content-info p{
+	font-weight: 600;
+ }
+ 
+ footer a:hover, footer a:active{
+ 	color: #00aeef;
+ }
+
+footer #fb-like{
+	float: left;
+}
+
+footer .container{
+	clear: both;
+	padding-top: 30px;
+}
+footer .logos{
+	float: right;
+}
+.logos a{
+	margin-left: 40px;
+}
+footer {
+	color: #ededed;
+	font-size: 12px;
+	background: #333333; /* Old browsers */
+	background: -moz-linear-gradient(top, #333333 0%, #070707 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#333333), color-stop(100%,#070707)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #333333 0%,#070707 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #333333 0%,#070707 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #333333 0%,#070707 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #333333 0%,#070707 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#070707',GradientType=0 ); /* IE6-9 */
+}
+
+.fb-like{
+	height: 61px;
+}
+
+/* ==========================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+@media screen and (max-width: 980px) and (min-width:767px){
+	div.navbar-inner{
+		height:auto;
+		margin-bottom: 150px;
+		
+	}
+	/*
+	li { display:inline; }
+	
+	li:nth-child(3):after { content:"\A"; white-space:pre; }*/
+	
+	.nav-collapse, .nav-collapse.collapse{
+		overflow: visible;
+	}
+	.nav-collapse ul {
+		display: block;
+	}
+	.nav-collapse .nav > li{
+		float: left;
+	}
+	.nav-collapse a{
+		display: block;
+	}
+	#menu-primary-navigation{
+		display: block;
+		float: left;
+	}
+	header.top, .home header.top{
+		height: auto;
+	}
+}
+@media (max-width: 767px) {
+
+	div.navbar-inner{
+		height:auto;
+		margin-bottom: 150px;
+		
+	}
+	.nav-collapse, .nav-collapse.collapse{
+		overflow: visible;
+	}
+	.nav-collapse ul {
+		display: block;
+	}
+	.nav-collapse a{
+		width: 100%;
+		display: block;
+	}
+	#menu-primary-navigation{
+		display: block;
+		float: left;
+	}
+	header.top, .home header.top{
+		height: auto;
+	}
+	body{
+		background: #f5f5f5;
+	}
+	#wrapper{
+		-moz-box-shadow: 0 0 0;
+		-webkit-box-shadow: 0 0 0;
+		box-shadow: 0 0 0;
+		background: #f5f5f5;
+		outline-width: 0px;
+	}
+}

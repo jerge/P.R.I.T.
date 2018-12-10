@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 11</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="banner"><a href="index.php"><img src="images/logo.png" class="logo" width="346" height="73" alt="prit" /></a></div>
+<div id="menu"">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <h3>Kontakt</h3>
+<p>Om du känner för att smurfa ett mail eller samtal till oss finns det lite uppgifter nedan.</p>
+
+<p><b>P.R.I.T.</b> (alla i P.R.I.T. på samma gång.)</p>
+<p class="contacttext">prit [smurfette] chalmers.it</p>
+
+<h5>Pyssla, Ordförande</h5>
+<p class="contacttext">amastr [smurfette] student.chalmers.se<br />Tel: 0727-322604</p>
+
+<h5>B$, Kassör</h5>
+<p class="contacttext">elleberg [smurfette] student.chalmers.se</p>
+
+<h5>Bgrn, Ölchef</h5>
+<p class="contacttext">johfr [smurfette] student.chalmers.se<br />Tel: 0702-535009</p>
+
+<h5>Fixarn, Rustmästare</h5>
+<p class="contacttext">stigelid [smurfette] student.chalmers.se<br />Tel: 070-5294298
+</p>
+
+<h5>Reimertz, PR-chef</h5>
+<p class="contacttext">reimertz [smurfette] student.chalmers.se</p>
+
+<h5>Dbbe, Materialchef</h5>
+<p class="contacttext">danber [smurfette] student.chalmers.se</p>
+	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[smurfette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 11</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="banner"><a href="index.php"><img src="images/logo.png" class="logo" width="346" height="73" alt="prit" /></a></div>
+<div id="menu"">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <div class="submenu">
+<ul>
+        <li><a href="?p=prit&mem=pyssla">Pyssla</a></li>
+        <li><a href="?p=prit&mem=bs">B$</a></li>
+        <li><a href="?p=prit&mem=bgrn">Bgrn</a></li>
+        <li><a href="?p=prit&mem=fixarn">Fixarn</a></li>
+        <li><a href="?p=prit&mem=reimertz">Reimertz</a></li>
+        <li><a href="?p=prit&mem=dbbe">Dbbe</a></li>
+    </ul>
+</div>
+<h4>Reimertz</h4>
+<div class="pritinfo">
+<table width="327">
+  <tr>
+    <td width="131"><div align="right">Post:</div></td>
+    <td width="184">PR-chef</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Nick:</div></td>
+    <td>Reimertz</td>
+  </tr>
+  <tr>
+    <td><div align="right">Namn irl:</div></td>
+    <td>Piérre Reimertz</td>
+  </tr>
+  <tr>
+    <td><div align="right">Första Chalmersår:</div></td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td><div align="right">Född:</div></td>
+    <td>Gud, ja</td>
+  </tr>
+  <tr>
+    <td><div align="right">Bor:</div></td>
+    <td>På en jätteliten bostadsyta</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritfärg:</div></td>
+    <td>Vegogrönt</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritdryck:</div></td>
+    <td>Eldoradokaffe. Yummy...</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritmusik:</div></td>
+    <td>Nöjesguiden</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritfilm:</div></td>
+    <td>Vingar av glas.</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritspel:</div></td>
+    <td>Vad som helst som går att spela på Mac. Typ nån  slags patiens.</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritprogramspråk:</div></td>
+    <td>Sysslar inte med sånt.</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritmat:</div></td>
+    <td>Ketchup</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritsmurf:</div></td>
+    <td>Tjejerna?</td>
+  </tr>
+  <tr>
+    <td><div align="right">Gillar:</div></td>
+    <td>Att städa!</td>
+  </tr>
+  <tr>
+    <td><div align="right">Ogillar:</div></td>
+    <td>Småsten</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Kontakt:</div></td>
+    <td>reimertz[smurfette]student.chalmers.se</td>
+  </tr>
+</table>
+
+</div>
+<div class="pritimage"><img src="prit/Piérre.jpg" width="264" height="352" alt="reimertz" /></div>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[smurfette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

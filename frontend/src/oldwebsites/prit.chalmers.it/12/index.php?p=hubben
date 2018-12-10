@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 12</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="sassette-container"><a href="?p=sassette"><div id="sassette"></div></a></div>
+<div id="banner"><a href="index.php"><div id="logo"></div></a></div>
+<div id="menu">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <h3>Hubben 2.0</h3>
+
+<h5>Vad är hubben?</h5>
+<p>Hubben är IT:s sektionslokal. Hit kan du komma och äta lunch, plugga, eller bara hänga. Lokalen består av ett stort rum med en bar, ett grupprum som man kan boka när man vill plugga utan för mycket distraktioner, samt ett kök med spis, diskmaskin och massa mikrovågsugnar. Hubben är öppen för dig alla dagar i veckan, dygnet runt!</p>
+
+<h5>Boka hubben?</h5>
+<p>Som IT-student är det gratis att boka hubben. Är du föreningsaktiv gör du detta enklast genom att logga in med ditt CID på <a href="http://chalmers.it/">chalmers.it</a> där mer information finns. Annars kontaktar du P.R.I.T. genom att exempelvis skicka ett mail till prit[sassette]chalmers.it.</p>
+
+<h5>Var är hubben?</h5>
+<p>Hubben finns på Hörsalsvägen 9 (Campus Johanneberg såklart). Hitta.se har en <a href="http://www.hitta.se/ViewDetailsPink.aspx?vad=hubben+2.0&amp;var=&amp;Vkiid=hXGROsIwgJSzsPE35Wxlhg==&amp;Vkid=10700065&amp;isAlternateNumberResult=False">fin karta</a> som leder dig rätt.</p>
+
+<h5>Felanmälan</h5>
+<p>Om något är trasigt kan du upplysa oss om det genom att mejla prit[sassette]chalmers.it eller ringa vår RustChef friden på 0705-976116, så fixar vi biffen!</p>
+
+<img class="imgcenter" src="images/hubben.jpg" alt="hubben" />	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[sassette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+		<title>P.R.I.T. 09 - ännu finare, ännu bättre, ännu gyckligare</title>
+		<link href="style.css" rel="stylesheet" type="text/css">		
+	</head>
+<body bgcolor="#000000">
+<br>
+<center>
+<table cellspacing="0" style='border: 0px; width: 600px; '>
+<tr><td><center><a href="?p=1"><img src="img/logo.png" style="border: 0;"></a></center></td></tr>
+<tr><td height="20px" style='background-image: url(img/menubg.gif);'>
+<center><ul id="menu">
+<li><a href="?p=1">Startsida</a></li>
+<li><a href="?p=2">Vi i P.R.I.T.</a></li>
+<li><a href="?p=3">Hubben</a></li>
+<li><a href="?p=4">Pateter</a></li>
+<li><a href="?p=5">Arrangemang</a></li>
+<li><a href="?p=6">Länkar</a></li>
+<li><a href="?p=7">Kontakt</a></li>
+</ul></center>
+</td></tr>
+<tr style='height: 450px;'><td style='background-color: #FFFFFF; vertical-align: top;'>
+
+  <table style='border: 0px;'>
+  <tr>
+<? 
+
+$pagenum = $_GET['p'];
+switch ($pagenum){
+	case "1":
+		include("startsida.php");
+		break;
+	case "2":
+		include("prit.php");
+		break;	
+	case "3":
+		include("hubben.php");
+		break;	
+	case "4":
+		include("sprit.php");
+		break;	
+	case "5":
+		include("arrangemang.php");
+		break;	
+	case "6":
+		include("laenkar.php");
+		break;	
+	case "7":
+		include("kontakt.php");
+		break;	
+	default:
+		include("startsida.php");
+		break;
+}
+
+?>
+	
+  </table>
+</tr></td>
+<tr style='background-color: #FFFFFF;'><td>
+<center><span class='copytext'>© Copyright P.R.I.T. 09<span></center>
+</tr></td>
+</table>
+</center>
+
+</body>
+</html>

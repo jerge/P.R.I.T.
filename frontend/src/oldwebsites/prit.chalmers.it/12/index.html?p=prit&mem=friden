@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 12</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="sassette-container"><a href="?p=sassette"><div id="sassette"></div></a></div>
+<div id="banner"><a href="index.php"><div id="logo"></div></a></div>
+<div id="menu">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <div class="submenu">
+<ul>
+        <li><a href="?p=prit&mem=e">E</a></li>
+        <li><a href="?p=prit&mem=micro">&mu;</a></li>
+        <li><a href="?p=prit&mem=jocke">jocke</a></li>
+        <li><a href="?p=prit&mem=friden">friden</a></li>
+        <li><a href="?p=prit&mem=juice">juice</a></li>
+        <li><a href="?p=prit&mem=ablim">Ablim</a></li>
+    </ul>
+</div><h4>friden</h4><img class="imgright" src="prit/friden.jpg" width="265" height="345" alt="friden" />
+<table>
+	<tr>
+		<td align="right">Post:</td>
+		<td>RustChef</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Nick:</td>
+		<td>friden</td>
+	</tr>
+	<tr>
+		<td align="right">Namn irl:</td>
+		<td>Mattias Fridén</td>
+	</tr>
+	<tr>
+		<td align="right">Första Chalmersår:</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td align="right">Född:</td>
+		<td>Med polisonger</td>
+	</tr>
+	<tr>
+		<td align="right">Bor:</td>
+		<td>OH</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritfärg:</td>
+		<td>Svart</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritdryck:</td>
+		<td>Guinness</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritmusik:</td>
+		<td>Rock/Experimental/Funk/Ambient</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritfilm:</td>
+		<td>The Prestige</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritspel:</td>
+		<td>Path of Exile</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritprogramspråk:</td>
+		<td>Java</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritmat:</td>
+		<td>Oxfilé med potatisgratäng och champinjonsås</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritsmurf:</td>
+		<td>Latsmurfen</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Gillar:</td>
+		<td>Långa promenader, bra musik, Guinness, random folk, att vara random, anime, programmering, spela spel, spela musik, bli kliad på huvudet av pamp, chips, Zelda, att skriva överdrivet mycket på saker som denna, läsa mail från DBBE, glömma bort mina lösenord, vara överfilosofisk mellan de stunder jag inte är det, hitta tekniska lösningar, programmera java, chilla, vara vilsen och att sola. Ubuntu &lt;3</td>
+	</tr>
+	<tr>
+		<td align="right">Ogillar:</td>
+		<td>Folk som beter sig dumt, mygg, hunger, när man får slut på batteri i datorn, labbar, dagens popmusik och tanken att gå ur chalmers.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Kontakt:</td>
+		<td><div>fridenm[snurr-a]student.chalmers.se<br />Tel: 0705976116</td>
+	</tr>
+</table>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[sassette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

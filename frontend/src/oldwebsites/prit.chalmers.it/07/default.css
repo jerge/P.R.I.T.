@@ -1,0 +1,224 @@
+body
+{
+	background-color:#000000;
+	color: #FFFFFF;
+	padding: 2em;
+	margin: 0;
+	font: 0.7em Verdana, sans-serif;
+}
+
+table
+{
+	font: 1em Verdana, sans-serif;
+}
+
+h1
+{
+	margin: 0.2em 0 0.5em 0;
+	font: 3.5em Georgia, serif;
+	color: #6d604e;
+	letter-spacing: 0.1em;
+}
+
+h3
+{
+	margin: 1em 0 1em 0;
+	font: 1.5em Georgia, serif;
+	font-weight: normal;
+	letter-spacing: 0.1em;
+}
+
+h4
+{
+	margin: 0.5em 0 0 0;
+	font: 1.4em Georgia, serif;
+	letter-spacing: 0.2em;
+	color: #697a66;
+	padding: 0 0 0.3em 2em;
+}
+
+img
+{
+	border: 0;
+}
+
+p
+{
+	margin: 0 0 5px 0;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:link
+{
+	color: #2C32CC;
+}
+
+a:visited
+{
+	color: #2C32CC;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.center
+{
+	text-align: center;
+	font: 0.9em Verdana, sans-serif;
+	font-style: italic;
+}
+
+.imagetext
+{
+	font: 0.9em Verdana, sans-serif;
+	font-style: italic;
+}
+
+.quote
+{
+	color: #339900;
+	margin: 0 0 5px 0;
+	font-style: italic;
+}
+
+/******************************************************
+ * LAYOUTEN */
+
+#layout
+{
+	float: left;
+	width: 80em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sidhuvud
+{
+	height: 140px;
+	margin: 0;
+	padding: 0;
+	background: url(prit07logo.jpg) no-repeat;
+	background-position: right;
+	background-color: #000000;
+}
+
+#sidhuvud_box
+{
+	width: 40em;
+	padding: 2em 1em;
+}
+
+#kolumncontainer
+{
+	float: left;
+	width: 80em;
+	border: 1px solid #b8d5b4;
+	background-color: #000000;
+}
+
+#kolumn1
+{
+	float: left;
+	width: 22em;
+	padding: 0 1em 0 0;
+	height: 550px;
+}
+
+#kolumn1_box
+{
+	float: left;
+	margin: 0;
+	padding: 1em;
+	line-height: 1.8em;
+}
+
+#kolumn2
+{
+	float: left;
+	width: 50em;
+	padding: 1em;
+	line-height: 1.8em;
+}
+
+#sidfot
+{
+	clear: both;
+	padding: 1em;
+}
+
+/******************************************************
+ * MENYERNA */
+
+#menycontainer
+{
+	margin-left: 2em;
+	width: 175px;
+	font-size: 80%;
+	border-top: 1px solid #CCCCCC;
+}
+
+#meny
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 175px;
+	height: 10px;
+}
+
+#meny a
+{
+	display: block;
+	margin: 0;
+	padding: 1em;
+	background: #009999;
+	text-decoration: none;
+	height: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+}
+
+#meny ul
+{
+	list-style-type: none;
+}
+
+#meny ul a
+{
+	margin: 0;
+	padding: 1em;
+	background: #09CDDA;
+}
+
+#meny a:link
+{
+	color: #FFFFFF;
+}
+
+#meny a:visited
+{
+	color: #FFFFFF;
+}
+
+#meny a:hover
+{
+	background: #FFFFFF;
+	color: #000000;
+}
+
+#meny a#current
+{
+	font-weight: bold;
+}
+
+#meny a#subcurrent
+{
+	font-weight: bold;
+}

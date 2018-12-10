@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 11</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="banner"><a href="index.php"><img src="images/logo.png" class="logo" width="346" height="73" alt="prit" /></a></div>
+<div id="menu"">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <div class="submenu">
+<ul>
+        <li><a href="?p=prit&mem=pyssla">Pyssla</a></li>
+        <li><a href="?p=prit&mem=bs">B$</a></li>
+        <li><a href="?p=prit&mem=bgrn">Bgrn</a></li>
+        <li><a href="?p=prit&mem=fixarn">Fixarn</a></li>
+        <li><a href="?p=prit&mem=reimertz">Reimertz</a></li>
+        <li><a href="?p=prit&mem=dbbe">Dbbe</a></li>
+  </ul>
+</div>
+<h4>Pyssla</h4>
+<div class="pritinfo">
+<table width="300">
+  <tr>
+    <td><div align="right">Post:</div></td>
+    <td>Ordförande</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Nick:</div></td>
+    <td>Pyssla</td>
+  </tr>
+  <tr>
+    <td><div align="right">Namn irl:</div></td>
+    <td>Amanda Strömsten</td>
+  </tr>
+  <tr>
+    <td><div align="right">Första Chalmersår:</div></td>
+    <td>09</td>
+  </tr>
+  <tr>
+    <td><div align="right">Född:</div></td>
+    <td>Ja</td>
+  </tr>
+  <tr>
+    <td><div align="right">Bor:</div></td>
+    <td>I mitt rosa dockskåp</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritfärg:</div></td>
+    <td>Hallonrosa på guldbakgrund</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritdryck:</div></td>
+    <td>Flädersaft med sugrör</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritmusik:</div></td>
+    <td>Fin musik</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritfilm:</div></td>
+    <td>Harry Potter!</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritspel:</div></td>
+    <td>The Sims 2</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritprogramspråk:</div></td>
+    <td>Värsta språket</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritmat:</div></td>
+    <td>Hembakat</td>
+  </tr>
+  <tr>
+    <td><div align="right">Favoritsmurf:</div></td>
+    <td>Smurfette</td>
+  </tr>
+  <tr>
+    <td><div align="right">Gillar:</div></td>
+    <td>Att fnissa</td>
+  </tr>
+  <tr>
+    <td><div align="right">Ogillar:</div></td>
+    <td>Fula gubbar</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="right">Kontakt:</div></td>
+    <td>amastr@student.chalmers.se</td>
+  </tr>
+</table>
+
+</div>
+<div class="pritimage"><img src="prit/Pyssla.jpg" width="270" height="203" alt="pyssla" /></div>
+	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[smurfette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

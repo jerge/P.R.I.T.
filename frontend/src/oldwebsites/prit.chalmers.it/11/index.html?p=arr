@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 11</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="banner"><a href="index.php"><img src="images/logo.png" class="logo" width="346" height="73" alt="prit" /></a></div>
+<div id="menu"">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <h3>Arrangemang</h3>
+<p>Här nedan ser du allt som P.R.I.T. själva eller delvis arrangerat.</p>
+
+<h5 class="line">Pubrunda LP3</h5>
+<p>Karaoke, pub och våfflor, kan det bli bättre?</p>
+
+<h5 class="line">Mat till sektionsmöten</h5>
+<p>P.R.I.T. lagar mat till alla som vill vara med och påverka.</p>
+
+<h5 class="line">Postohmsits</h5>
+<p>Vi fixar middag och fest för våra företrädare i mysig hemmiljö.</p>
+
+<h5 class="line">Pokerkväll</h5>
+<p>Poker tillsammans med DrawIT och alla som är sugna.</p>
+
+<h5 class="line">Alla-Hjärtans-Dag-tårtkalas</h5>
+<p>Vi bakar rosa tårta och säljer billigtbilligt!</p>
+
+<h5 class="line">Pubrunda LP4</h5><br />
+
+<h5 class="line">Fixa-Hubben-Dag</h5>
+<p>Hubben städas och rustas upp, och alla vill hjälpa till!</p>
+
+<h5 class="line">Bättre 11-bastu</h5>
+<p>Tillsammans med NollKIT och SexIT ararr vi bastukalas för alla IT:are.</p>
+
+<h5 class="line">ReunITe</h5>
+<p>Alla pateter bjuds in till stor fest med tema gammalt.</p>
+
+<h4>Kommande arrangemang</h4><br />
+
+<h5 class="line">Pubrunda LP1</h5><h5>2011-09-01</h5><br />
+
+<h5 class="line">Pubrunda LP2<h5>2011-10-27</h5></h5><br />
+
+<h5 class="line">Ohmsits</h5>
+<p>Sittning för alla i S.P.R.I.T. som jobbat duktigt åren innan.</p>
+
+<h5 class="line">Mottagning</h5>
+<p>Vi tar emot Nollan på Götaplatsen.</p>
+
+<h5 class="line">Phaddergrupp</h5>
+<p>P.R.I.T. är en av de phaddergrupper som tar hand om Nollan under nollningen.</p>
+
+<h5 class="line">Oktobersittning</h5><h5>2011-10-01</h5>
+<p>Öl, ölkorv och öl.</p>
+
+<h5 class="line">Fixa-Hubben-vecka</h5>
+<p>Hubben får ett ansiktslyft, alla ska med!</p>
+
+<h5 class="line">Aspning</h5>
+<p>Vi ordnar roliga aktiviteter för alla som är intresserade av att ta över efter oss.</p>
+
+<h5 class="line">PR-kalas</h5>
+<p>Alla övriga PR-föreningar bjuds in till stort kalas hos oss.</p>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[smurfette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

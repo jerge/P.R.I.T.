@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 11</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="banner"><a href="index.php"><img src="images/logo.png" class="logo" width="346" height="73" alt="prit" /></a></div>
+<div id="menu"">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <h3>Länkar</h3>
+	<p align="center">Här hittar du länkar till både nyttiga och onyttiga saker. Tugga och svälj!</p>
+<div class="linkbox">
+	<h4>IT-relaterat</h4>
+    	<p>
+<a TARGET="_blank" href='http://www.chalmers.it'>ITStud</a><br><a TARGET="_blank" href='http://styrit.chalmers.it/'>styrIT</a><br><a TARGET="_blank" href='http://sexit.chalmers.it'>sexIT</a><br><a TARGET="_blank" href='http://www.nollk.it'>NollKIT</a><br><a TARGET="_blank" href='http://fritid.chalmers.it/'>frITid</a><br><a TARGET="_blank" href='http://armit.chalmers.it/'>armIT</a><br>		</p>
+	</div>
+<div class="linkbox">
+	<h4>PR-föreningar</h4>
+    	<p>
+<a TARGET="_blank" href='http://www.ekak.org/'>EKAK</a><br><a TARGET="_blank" href='http://www.dkv.se/'>DKV</a><br><a TARGET="_blank" href='http://dtek.se/wiki/Main/Delta'>Delta</a><br><a TARGET="_blank" href='http://www.qq7.se/'>QQ7</a><br><a TARGET="_blank" href='http://web.student.chalmers.se/groups/asterix/'>M.A.K.</a><br><a TARGET="_blank" href='http://www.snok.se'>SNOK</a><br>
+		</p>
+	</div>
+<div class="linkbox">
+	<h4>Rustmästerier</h4><p>
+<a TARGET="_blank" href='http://www.chs.chalmers.se/sv/Users/Anonymous-Users/Registrerade/Chalmers/Chalmers-Studentkaar/Aktiva/Studerandesektioner/E/Erus'>ERUS</a><br><a TARGET="_blank" href='http://www.dtek.se/wiki/Main/DRUST'>DRUST</a><br><a TARGET="_blank" href='http://www.chs.chalmers.se/sv/Users/Anonymous-Users/Registrerade/Chalmers/Chalmers-Studentkaar/Aktiva/Studerandesektioner/V/VIRUS'>VIRUS</a><br><a TARGET="_blank" href='http://www.rustet.se/'>M-Rustet</a><br><a TARGET="_blank" href='http://web.student.chalmers.se/groups/itek-index/'>Index</a><br>
+</p></div>
+<div class="linkbox">
+<h4>PR/Rust-föreningar</h4><p>
+<a TARGET="_blank" href='http://zexet.ztek.chalmers.se/'>Zexet</a><br><a TARGET="_blank" href='http://www.chs.chalmers.se/sv/Users/Anonymous-Users/Registrerade/Chalmers/Chalmers-Studentkaar/Aktiva/Studerandesektioner/KfKb/KAOS'>KAOS</a><br><a TARGET="_blank" href='http://www.ftek.chalmers.se/dp/'>Djungelpatrullen</a><br><a TARGET="_blank" href='http://www.haks.se/'>HÄKS</a><br><a TARGET="_blank" href='http://prosex.blogg.se/'>proSex</a><br>
+
+</p></div>
+<div class="linkbox">
+<h4>Kårföreningar</h4><p>
+<a TARGET="_blank" href='http://www.cortegen.se/'>CCC</a><br><a TARGET="_blank" href='http://www.festu.chs.chalmers.se/'>FestU</a><br><a TARGET="_blank" href='http://www.bamse.chs.chalmers.se/'>Bamse</a><br><a TARGET="_blank" href='http://www.lob.chs.chalmers.se/'>LoB</a><br><a TARGET="_blank" href='http://www.svea.chs.chalmers.se/'>Svea</a><br><a TARGET="_blank" href='http://www.pu.chs.chalmers.se/'>PU</a><br>
+</p></div>
+<div class="linkbox">
+	<h4>Annat</h4>
+    	<p>
+<a TARGET="_blank" href='http://www.pizzeriagibraltar.se/'>Gibbys</a><br>
+</p></div>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[smurfette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

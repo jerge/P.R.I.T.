@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 12</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="sassette-container"><a href="?p=sassette"><div id="sassette"></div></a></div>
+<div id="banner"><a href="index.php"><div id="logo"></div></a></div>
+<div id="menu">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <div class="submenu">
+<ul>
+        <li><a href="?p=prit&mem=e">E</a></li>
+        <li><a href="?p=prit&mem=micro">&mu;</a></li>
+        <li><a href="?p=prit&mem=jocke">jocke</a></li>
+        <li><a href="?p=prit&mem=friden">friden</a></li>
+        <li><a href="?p=prit&mem=juice">juice</a></li>
+        <li><a href="?p=prit&mem=ablim">Ablim</a></li>
+    </ul>
+</div><h4>juice</h4><img class="imgright" src="prit/juice.jpg" alt="juice" />
+<table>
+	<tr>
+		<td align="right">Post:</td>
+		<td>PR-Chef</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Nick:</td>
+		<td>juice</td>
+	</tr>
+	<tr>
+		<td align="right">Namn irl:</td>
+		<td>Josefina Andreasson</td>
+	</tr>
+	<tr>
+		<td align="right">Första Chalmersår:</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td align="right">Född:</td>
+		<td>Liten</td>
+	</tr>
+	<tr>
+		<td align="right">Bor:</td>
+		<td>Stort</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritfärg:</td>
+		<td>Alla nyanser av turkos</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritdryck:</td>
+		<td>Uhm...</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritmusik:</td>
+		<td>En del</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritfilm:</td>
+		<td>Nej</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritspel:</td>
+		<td>Kingdom Hearts</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritprogramspråk:</td>
+		<td>Perl</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritmat:</td>
+		<td>Pez!</td>
+	</tr>
+	<tr>
+		<td align="right">Favoritsmurf:</td>
+		<td>Danssmurfen</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Gillar:</td>
+		<td>Hemlisar</td>
+	</tr>
+	<tr>
+		<td align="right">Ogillar:</td>
+		<td>jocke</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="right">Kontakt:</td>
+		<td>josandr[sassette]student.chalmers.se</td>
+	</tr>
+</table>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[sassette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>

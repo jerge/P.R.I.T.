@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>P.R.I.T. 12</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="mainbody">
+<div id="sassette-container"><a href="?p=sassette"><div id="sassette"></div></a></div>
+<div id="banner"><a href="index.php"><div id="logo"></div></a></div>
+<div id="menu">
+    <ul>
+        <li><a href="?p=start">Start</a></li>
+        <li><a href="?p=prit">Vi i P.R.I.T.</a></li>
+        <li><a href="?p=hubben">Hubben</a></li>
+        <li><a href="?p=arr">Arrangemang</a></li>
+        <li><a href="?p=pateter">Pateter</a></li>
+        <li><a href="?p=links">Länkar</a></li>
+        <li><a href="?p=kontakt">Kontakt</a></li>
+    </ul>
+</div>
+	<div id="content">
+    <div class="submenu">
+	<ul>
+		<li><a href="?p=pateter&pat=prit11">P.R.I.T. 11</a></li>
+		<li><a href="?p=pateter&pat=prit10">P.R.I.T. 10</a></li>
+		<li><a href="?p=pateter&pat=prit09">P.R.I.T. 09</a></li>
+		<li><a href="?p=pateter&pat=prit08">P.R.I.T. 08</a></li>
+		<li><a href="?p=pateter&pat=prit07">P.R.I.T. 07</a></li>
+		<li><a href="?p=pateter&pat=prit06">P.R.I.T. 06</a></li>
+		<li><a href="?p=pateter&pat=prit05">P.R.I.T. 05</a></li>
+		<li><a href="?p=pateter&pat=prit04">P.R.I.T. 04</a></li>
+	</ul>
+</div><h4>P.R.I.T. 2008</h4>
+<a href="sprit/prit08full.jpg"><img class="imgcenter" src="sprit/prit08.jpg" alt="prit08" /></a>
+<p><br />P.R.I.T. 08 bestod av följande söta smurfar:</p>
+<table>
+  <tr>
+    <td>ChefChef, <strong>Ola Palholmen</strong></td>
+  </tr>
+  <tr>
+    <td> Vice ChefChef, <strong>Mattias &quot;mwq&quot; Warnqvist</strong></td>
+  </tr>
+  <tr>
+    <td> RustChef, <strong>Daniel &quot;Frank&quot; Arvidsson</strong></td>
+  </tr>
+  <tr>
+    <td> Kass chef, <strong>David &quot;Zorkasaurus Pez&quot; Sundelius</strong></td>
+  </tr>
+  <tr>
+    <td> Webbchef, <strong>William &quot;Wilsonx&quot; Löf</strong></td>
+  </tr>
+  <tr>
+    <td> Öhlchef, <strong>Linus &quot;faern&quot;/&quot;Mr. Big Jump&quot; Färnstrand</strong></td>
+  </tr>
+  <tr>
+    <td> PRChef, <strong>Johan Larsson</strong></td>
+  </tr>
+</table>
+<p>Deras hemsida finns förevigad <a href="http://prit.chalmers.it/08/">här.</a></p>	</div>
+    <div id="footer">
+    
+    	<p>Kontakta oss: prit[sassette]chalmers.it</p>
+    </div>
+</div>
+</body>
+</html>
