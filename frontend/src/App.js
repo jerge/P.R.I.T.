@@ -1,13 +1,14 @@
-import React, { Component } from 'react';
-import { Router, Route, Switch } from 'react-router'
-import history from './history'
-import './App.css';
+import React, { Component } from "react";
+import { Router, Route, Switch, Redirect } from "react-router";
+import history from "./history";
+import "./App.css";
 
-import HomeScreen from './components/screens/home/index';
-import AboutScreen from './components/screens/omprit/index';
-import HubbenScreen from './components/screens/hubben/index';
-import PatetScreen from './components/screens/patet/index';
-import TurquoiseScreen from './components/screens/turquoise/index';
+import HomeScreen from "./components/screens/18/home/index";
+import AboutScreen from "./components/screens/18/omprit/index";
+import HubbenScreen from "./components/screens/18/hubben/index";
+import PatetScreen from "./components/screens/18/patet/index";
+import TurquoiseScreen from "./components/screens/18/turquoise/index";
+//import Home17 from "./components/screens/17/home/index.html";
 
 class App extends Component {
   render() {
@@ -16,29 +17,33 @@ class App extends Component {
         <Router history={history}>
           <Switch>
             <Route path="/" exact>
-              <HomeScreen/>
+              <Redirect to="/18" />
             </Route>
 
-            <Route path="/omprit" exact>
-              <AboutScreen></AboutScreen>
+            <Route path="/18/omprit" exact>
+              <AboutScreen />
             </Route>
 
-            <Route path="/pateter" exact>
-              <PatetScreen></PatetScreen>
+            <Route path="/18/pateter" exact>
+              <PatetScreen />
             </Route>
 
-            <Route path="/hubben" exact>
-              <HubbenScreen></HubbenScreen>
+            <Route path="/18/hubben" exact>
+              <HubbenScreen />
             </Route>
 
-            <Route path="/hubben-2-1" exact>
-              <HubbenScreen></HubbenScreen>
+            <Route path="/18/hubben-2-1" exact>
+              <HubbenScreen />
             </Route>
 
-            <Route path="/riktigturkos" exact>
-              <TurquoiseScreen></TurquoiseScreen>
+            <Route path="/18/riktigturkos" exact>
+              <TurquoiseScreen />
             </Route>
-          </Switch>          
+
+            <Route path="/18" exact>
+              <HomeScreen />
+            </Route>
+          </Switch>
         </Router>
       </div>
     );
@@ -46,7 +51,6 @@ class App extends Component {
 }
 
 export default App;
-
 
 /*
 import React from 'react';
