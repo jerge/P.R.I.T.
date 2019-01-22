@@ -40,14 +40,14 @@ export const HomeContent = () => (
       <Emphasis>Vi värnar och hedrar</Emphasis> den{" "}
       <Turquoise to="/18/riktigturkos">turkosa</Turquoise> kulören, smurfen, och
       mycket annat sektionsrelaterat genom våra arrangemang i sektionslokalen{" "}
-      <Turquoise to="/hubben">Hubben 2.1.</Turquoise>
+      <Turquoise to="/18/hubben">Hubben 2.1.</Turquoise>
       <LineBreak />
       <Emphasis>Vårt uppdrag</Emphasis> är att se till att alla IT-teknologer
       får en så trevlig och underhållande Chalmerstid som möjligt, vare sig det
       gäller hela och rena studiemiljöer eller pubar att besöka efter studierna.{" "}
       <LineBreak />
       <Emphasis>Inte minst</Emphasis> har vi pubrundan som hålls en gång per
-      läsperiod, då <Turquoise to="/hubben">Hubben 2.1</Turquoise> förvandlas
+      läsperiod, då <Turquoise to="/18/hubben">Hubben 2.1</Turquoise> förvandlas
       till en färgglad karaokepub.
     </LargeSerifText>
   </ContentContainer>
