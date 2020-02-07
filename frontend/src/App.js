@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { Router, Route, Switch, Redirect } from "react-router";
+import { Route, Switch } from "react-router";
+import {BrowserRouter as Router} from "react-router-dom";
 import history from "./history";
 import "./App.css";
 
@@ -14,33 +15,29 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Router history={history}>
+        <Router history={history} basename="/18">
           <Switch>
-            <Route path="/" exact>
-              <Redirect to="/18" />
-            </Route>
-
-            <Route path="/18/omprit" exact>
+            <Route path="/omprit" exact>
               <AboutScreen />
             </Route>
 
-            <Route path="/18/pateter" exact>
+            <Route path="/pateter" exact>
               <PatetScreen />
             </Route>
 
-            <Route path="/18/hubben" exact>
+            <Route path="/hubben" exact>
               <HubbenScreen />
             </Route>
 
-            <Route path="/18/hubben-2-1" exact>
+            <Route path="/hubben-2-1" exact>
               <HubbenScreen />
             </Route>
 
-            <Route path="/18/riktigturkos" exact>
+            <Route path="/riktigturkos" exact>
               <TurquoiseScreen />
             </Route>
 
-            <Route path="/18" exact>
+            <Route path="/" exact>
               <HomeScreen />
             </Route>
           </Switch>

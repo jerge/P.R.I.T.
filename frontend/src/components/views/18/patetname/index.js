@@ -14,7 +14,7 @@ export const Prit04 = () =>
             <PatetName>Ledamot, <strong>Christoffer Tholén</strong></PatetName>
             <PatetName>Ledamot, <strong>Christian Rutholm</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/04">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/04">här</a>
         </PatetList>
         
     </ListContainer>
@@ -31,7 +31,7 @@ export const Prit05 = () =>
             <PatetName>Ledamot, <strong>Annika Lindstedt</strong></PatetName>
             <PatetName>Ledamot, <strong>Rickard Nordstrand</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/05">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/05">här</a>
             </PatetList>
     </ListContainer>
 
@@ -50,7 +50,7 @@ export const Prit06 = () =>
         <PatetName>dekorationsChef, <strong>Niklas ”Tellan” von Tell</strong></PatetName>
         <PatetName>snaxChef, <strong>Rasmus ”Bavern” Wahlman</strong></PatetName>
         <br/>
-        Deras hemsida finns förevigad <a href="prit.chalmers.it/06">här</a>
+        Deras hemsida finns förevigad <a href="https://prit.chalmers.it/06">här</a>
     </PatetList>
 </ListContainer>
 
@@ -67,7 +67,7 @@ export const Prit07 = () =>
             <PatetName>GyckelChef, <strong>Rickard Nilsson</strong></PatetName>
             <PatetName>SpelChef, <strong>Jonathan Brown</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/07">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/07">här</a>
         </PatetList>
     </ListContainer>
 
@@ -84,7 +84,7 @@ export const Prit08 = () =>
             <PatetName>Öhlchef, <strong>Linus ”faern”/”Mr. Big Jump” Färnstrand</strong></PatetName>
             <PatetName>PRChef, <strong>Johan Larsson</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/08">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/08">här</a>
         </PatetList>
     </ListContainer>
 
@@ -101,7 +101,7 @@ export const Prit09 = () =>
             <PatetName>ÖhlChef, <strong>Linus ”faern”/”Mr. Big Jump” Färnstrand</strong></PatetName>
             <PatetName>PRChef, <strong>Johan Larsson</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/09">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/09">här</a>
         </PatetList>
     </ListContainer>
 
@@ -117,7 +117,7 @@ export const Prit10 = () =>
             <PatetName>ÖhlChef, <strong>David ”Dadda” Obrant</strong></PatetName>
             <PatetName>P-Chef, <strong>Philip ”PhistU” Steingrüber</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/10">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/10">här</a>
         </PatetList>
     </ListContainer>
 
@@ -133,7 +133,7 @@ export const Prit11 = () =>
             <PatetName>Öhlchef, <strong>Johan ”Bgrn” Fredriksson</strong></PatetName>
             <PatetName>Materialchef, <strong>Daniel ”Dbbe” Bergqvist</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/11">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/11">här</a>
         </PatetList>
     </ListContainer>
 
@@ -149,7 +149,7 @@ export const Prit12 = () =>
             <PatetName>PR-Chef, <strong>Josefina ”juice” Andreasson</strong></PatetName>
             <PatetName>MaterialChef, <strong>Albin ”Ablim” Bramstång</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/12">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/12">här</a>
         </PatetList>
     </ListContainer>
 
@@ -165,7 +165,7 @@ export const Prit13 = () =>
             <PatetName>PR-Chef, <strong>Alexander ”Hult↓” Hultnér</strong></PatetName>
             <PatetName>MaterialChef, <strong>Joel ”oed” Thorstensson</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/13">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/13">här</a>
         </PatetList>
     </ListContainer>
 
@@ -182,7 +182,7 @@ export const Prit14 = () =>
             <PatetName>MaterialChef, <strong>Erik ”Neon” Norlander</strong></PatetName>
             <PatetName>Oumb(h)ärlig, <strong>Victor ”Trivoc” Nilsson</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/14">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/14">här</a>
         </PatetList>
     </ListContainer>
 
@@ -199,7 +199,7 @@ export const Prit15 = () =>
             <PatetName>MaterialChef, <strong>Albin ”Ablim” Bramstång</strong></PatetName>
             <PatetName>KnivChef/KiltChef, <strong>Lage ”Leigh” Bergman</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/15">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/15">här</a>
         </PatetList>
     </ListContainer>
 
@@ -216,7 +216,7 @@ export const Prit16 = () =>
             <PatetName>MaterialChef, <strong>Josefin “Yuna” Ulfenborg</strong></PatetName>
             <PatetName>MatChef, <strong>Oskar “Owe” Willman</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/16">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/16">här</a>
         </PatetList>
     </ListContainer>
 
@@ -233,6 +233,6 @@ export const Prit17 = () =>
             <PatetName>PR-Chef, <strong>Anders ”Spöket" Bäckelie</strong></PatetName>
             <PatetName>SåsChef, <strong>Jonatan "Allan" Gustavssond</strong></PatetName>
             <br/>
-            Deras hemsida finns förevigad <a href="prit.chalmers.it/17">här</a>
+            Deras hemsida finns förevigad <a href="https://prit.chalmers.it/17">här</a>
         </PatetList>
     </ListContainer>

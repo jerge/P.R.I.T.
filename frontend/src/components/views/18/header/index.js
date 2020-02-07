@@ -25,13 +25,13 @@ export const Header = () => (
       <IT />
     </ImageLink>
     <HeaderLinkList>
-      <Link to="/18/hubben-2-1">
+      <Link to="/hubben-2-1">
         <HeaderLinkListItem>Hubben 2.1</HeaderLinkListItem>
       </Link>
-      <Link to="/18/omprit">
+      <Link to="/omprit">
         <HeaderLinkListItem>Om P.R.I.T.</HeaderLinkListItem>
       </Link>
-      <Link to="/18/pateter">
+      <Link to="/pateter">
         <HeaderLinkListItem>Pateter</HeaderLinkListItem>
       </Link>
     </HeaderLinkList>
