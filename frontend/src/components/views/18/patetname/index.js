@@ -190,14 +190,14 @@ export const Prit15 = () =>
     <ListContainer>
         <Prit15image/>
         <PatetList>
-            <PatetHeader>P.R.I.T. 15</PatetHeader>            
-            <PatetName>ChefChef, <strong>Emil ”E” Johansson</strong></PatetName>
-            <PatetName>Ka$$Chef, <strong>Magnus ”µ” Larsson</strong></PatetName>
-            <PatetName>ØhlChef, <strong>Joakim ”jocke” Persson</strong></PatetName>
-            <PatetName>RustChef, <strong>Mattias ”friden” Fridén</strong></PatetName>
-            <PatetName>PR-Chef, <strong>Josefina ”juice” Andreasson</strong></PatetName>
-            <PatetName>MaterialChef, <strong>Albin ”Ablim” Bramstång</strong></PatetName>
-            <PatetName>KnivChef/KiltChef, <strong>Lage ”Leigh” Bergman</strong></PatetName>
+            <PatetHeader>P.R.I.T. 15</PatetHeader>
+            <PatetName>ChefChef, <strong>Jesper ”Jax” Jaxing</strong></PatetName>
+            <PatetName>Ka$$Chef, <strong>Gustav ”gurrabz” Bergström</strong></PatetName>
+            <PatetName>ØhlChef, <strong>Oskar ”RutAn” Rutqvist</strong></PatetName>
+            <PatetName>RustChef, <strong>André ”Tejp” Samuelsson</strong></PatetName>
+            <PatetName>PR-Chef, <strong>Björn ”Urza” Hedström</strong></PatetName>
+            <PatetName>MaterialChef, <strong>Erik ”Fredokin” Risfelt</strong></PatetName>
+            <PatetName>KnivChef/KiltChef , <strong>Lage ”Leigh” Bergman</strong></PatetName>
             <br/>
             Deras hemsida finns förevigad <a href="https://prit.chalmers.it/15">här</a>
         </PatetList>
